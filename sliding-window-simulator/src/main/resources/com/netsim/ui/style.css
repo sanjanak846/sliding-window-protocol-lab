@@ -1,0 +1,17 @@
+.root { -fx-font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; -fx-font-size: 13px; -fx-base: #F1F5F9; -fx-background: #F8FAFC; }
+.header { -fx-background-color: linear-gradient(to right, #1E3A8A, #2563EB); }
+.app-title { -fx-text-fill: white; -fx-font-size: 22px; -fx-font-weight: bold; }
+.app-subtitle { -fx-text-fill: #DBEAFE; -fx-font-size: 12px; }
+.section-title { -fx-font-size: 14px; -fx-font-weight: bold; -fx-text-fill: #1E293B; }
+.hint { -fx-text-fill: #64748B; -fx-font-size: 11.5px; }
+.config-panel { -fx-background-color: white; }
+.toolbar { -fx-background-color: #E2E8F0; }
+.button.primary { -fx-background-color: #2563EB; -fx-text-fill: white; -fx-font-weight: bold; -fx-background-radius: 6; }
+.button.primary:hover { -fx-background-color: #1D4ED8; }
+.button { -fx-background-radius: 6; }
+.metric-card { -fx-background-color: white; -fx-border-color: #E2E8F0; -fx-border-radius: 8; -fx-background-radius: 8; -fx-padding: 8 10 8 10; }
+.metric-value { -fx-font-size: 17px; -fx-font-weight: bold; -fx-text-fill: #0F172A; }
+.metric-name { -fx-font-size: 11px; -fx-text-fill: #64748B; }
+.decision { -fx-font-size: 20px; -fx-font-weight: bold; -fx-text-fill: #1D4ED8; }
+.table-view .column-header-background { -fx-background-color: #E2E8F0; }
+.tab-pane > .tab-header-area { -fx-padding: 4 0 0 8; }
